@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { Text, Button, StyleSheet, View, Image } from 'react-native'
+import { Text, StyleSheet, View, Image } from 'react-native'
 
 import ContDisplay from "./ContDisplay";
 import ContBotoes from "./ContBotoes";
