@@ -1,12 +1,12 @@
 import React from "react";
 import { Text, View, StyleSheet } from 'react-native'
 
-import Cont from "./componentes/Cont";
+import Mega from "./componentes/Mega";
 
 function App() {
     return (
         <View style={styles.container}>
-            <Cont />
+            <Mega qtdeNumeros={12}/>
         </View> 
     )
 }
